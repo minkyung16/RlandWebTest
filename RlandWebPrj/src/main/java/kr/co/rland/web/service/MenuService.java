@@ -7,6 +7,7 @@ import kr.co.rland.web.repository.MenuRepository;
 
 public interface MenuService {
 	
+	//dddd
 	List<Menu> getList();
 	Menu getMenu(String id);
 	void setRepository(MenuRepository repository);
