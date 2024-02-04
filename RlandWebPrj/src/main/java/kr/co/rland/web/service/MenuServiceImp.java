@@ -8,6 +8,7 @@ import kr.co.rland.web.repository.MenuRepository;
 
 public class MenuServiceImp implements MenuService {
 	
+	//ddfd
 	private MenuRepository repository;
 	
 	public MenuServiceImp() {
